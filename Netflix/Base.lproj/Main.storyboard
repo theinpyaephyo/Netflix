@@ -179,6 +179,8 @@
                         <outlet property="svMovies" destination="zfc-Lj-dYT" id="YXB-dq-bL2"/>
                         <outlet property="svTVShows" destination="eQ5-Hi-g5R" id="b8y-YI-Dg7"/>
                         <outlet property="tvHome" destination="dzi-vg-765" id="zit-rt-lU6"/>
+                        <outlet property="viewTop" destination="NaT-Fx-HQ2" id="OyR-IZ-jyp"/>
+                        <outlet property="viewTopConstraint" destination="hKj-vq-R83" id="OGA-Gt-dcg"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
